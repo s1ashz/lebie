@@ -28,7 +28,7 @@ Public homepage + privacy policy for the invoice Google OAuth app (domain **lebi
 | Purpose | OAuth consent-screen Application home page + Privacy policy URL |
 | Site paths | `/` (hello + Lebie brand), `/privacy/` (short English privacy policy) |
 | Host | GitHub Pages (chosen 2026-11-07; no GoDaddy web hosting) |
-| GitHub | personal account `s1ashz` (same as `personal-assistant`); remote host alias `github.com-s1ashz` |
+| GitHub | `s1ashz/lebie` (pushed 2026-11-07); remote `git@github.com-s1ashz:s1ashz/lebie.git` |
 | Contact on privacy page | `faturas.investimento@gmail.com` |
 
 ## Publish
